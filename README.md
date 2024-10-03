@@ -41,9 +41,3 @@ During training, the model iteratively learned to minimize the loss function and
 
 By leveraging the power of U-Net architecture and combining it with image processing techniques, the model achieved impressive results in lane line detection. The trained model can now accurately identify and plot the lane lines in road images, providing valuable information for various applications such as autonomous driving and road maintenance.
 
-## Feedback
-
-If you have any feedback, please reach out to me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-sahani-34363725b) 
-
-Author: [@anujsahani01](https://github.com/anujsahani01)
-
